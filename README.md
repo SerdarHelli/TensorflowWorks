@@ -22,7 +22,7 @@ Based  with optimization.
 
 ## Adaptive Wing Loss
 
-[The paper - Adaptive Wing Loss for Robust Face Alignment via Heatmap Regression] (https://arxiv.org/abs/1904.07399)
+[The paper - Adaptive Wing Loss for Robust Face Alignment via Heatmap Regression](https://arxiv.org/abs/1904.07399)
 
 
 ## Spatial Configuration into  U-Net
