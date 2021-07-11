@@ -16,6 +16,7 @@ Based  with optimization for tensorflow last version.
 ## StackedHourglassModel (Includes only model)
 
 [The paper  - Stacked Hourglass Networks for Human Pose Estimation ](https://arxiv.org/abs/1603.06937)
+
 Based  with optimization.
 * https://github.com/yuanyuanli85/Stacked_Hourglass_Network_Keras
 
