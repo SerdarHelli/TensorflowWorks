@@ -2,6 +2,7 @@ import tensorflow as tf
 from tensorflow.keras.layers import Input, Conv2D, MaxPooling2D, BatchNormalization,concatenate,Conv2DTranspose,Dropout
 from tensorflow.keras.models import Model
 
+#CUSTOM CUSTOM BE CAREFULL
 #Spatial Configuration 
 #Reference : PAYER, Christian, et al. Integrating spatial configuration into heatmap regression based CNNs for landmark localization. Medical image analysis, 2019, 54: 207-219.
 
