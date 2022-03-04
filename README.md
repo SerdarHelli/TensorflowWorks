@@ -49,20 +49,7 @@ model=instance()
 model.summary()
 ```
 
-## Spatial Configuration into  U-Net
 
-[ The paper - Integrating Spatial Configuration into Heatmap Regression Based CNNs for Landmark Localization](https://arxiv.org/pdf/1908.00748.pdf)
-
-#### Usage
-
-* Spatial Configuration into  U-Net
-```
-import tensorflow as tf
-from SpatialConfigUnetCustom import *
-instance=SpatialConfigUnet(shape,loss,optimizer,metrics,last_activation)
-model=instance()
-model.summary()
-```
 
 ## Adaptive Wing Loss
 
